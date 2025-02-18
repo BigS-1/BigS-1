@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BigS-1
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning how to become a Geospatial Data Scientist
+- 🌱 I’m currently learning how to become a Product Associate, with background in analysing spatial data.
 - 💞️ I’m looking to collaborate on any Geospatial project
 - 📫 How to reach me - sharon@ayadata.ai
 
